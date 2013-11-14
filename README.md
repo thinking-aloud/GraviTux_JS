@@ -7,6 +7,9 @@ Den Quellcode und eine ausführbare .Jar Datei gibt es auf https://github.com/th
 Bedienung
 Bewege den Pinguin Tux mit den Cursortasten, oder mit W-A-S-D zu seiner Fischtonne.
 Durch das Drücken der Leertaste kann die Gravitation umkehrt werden.
+
+eine lauffähige Version gibt es auf meiner Seite: http://gravitux.thinking-aloud.eu/
+
 Viel Spaß!
 
 Lennart
