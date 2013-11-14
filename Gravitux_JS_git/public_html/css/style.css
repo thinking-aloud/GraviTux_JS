@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'header_font';
+  src: url('../res/fonts/BRLNSDB.TTF');
+}
+
+@font-face {
+  font-family: 'body_font';
+  src: url('../res/fonts/BRLNSR.TTF');
+}
+
+* {
+    margin: 0;
+    padding: 0;	
+}
+
+body {
+    background: #303030;
+    color: #ffffff;
+}
+
+#wrapper {
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 15px;
+	margin-bottom: 15px;
+	font-family: body_font;
+}
+
+p {
+    margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+a {
+    color: lightgrey;
+}
+
+#footer {
+    margin-top: 15px;
+}
+
+#framecounter{
+	color: #FFFFFF; 
+	position: absolute; 
+	font-size: 10px; 
+	font-family: Courier New;
+	font-family: header_font;
+}
